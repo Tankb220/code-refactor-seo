@@ -1,10 +1,11 @@
 # Horiseon SEO
 
 ## Description 
-refactored prebuilt html page with css
+Refactored prebuilt html page with css
 ## Resources 
 [Repository](https://github.com/Tankb220/code-refactor-seo)
-[Deployed-site]()
+[Deployed-site](https://tankb220.github.io/code-refactor-seo/)
 
 ### Screen
-![screenshot]()
+![screenshot](Horisoen-SEO-Search-Enging-Optimization.png)
+
